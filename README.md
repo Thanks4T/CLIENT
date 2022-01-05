@@ -10,7 +10,7 @@
 
 
 
-Minimal PyTorch implementation of [Yolact:《YOLACT: Real-time Instance Segmentation》](https://arxiv.org/abs/1904.02689).  
+###Qt [Qt](https://github.com/Thanks4T/uuuuu).  
 
 
 
