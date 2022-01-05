@@ -2,6 +2,8 @@
 客户端包括，WEB，APP，小程序
 
 
+Minimal PyTorch implementation of [Yolact:《YOLACT: Real-time Instance Segmentation》](https://arxiv.org/abs/1904.02689).  
+
 
 
 
